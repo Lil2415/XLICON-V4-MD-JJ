@@ -53,7 +53,7 @@ global.SESSION_ID = process.env.SESSION_ID || '';
 
 global.botname = process.env.BOT_NAME || 'XLICON-V4-MD';
 
-global.ownernumber = [process.env.OWNER_NUMBER || '923184070915'];
+global.ownernumber = [process.env.OWNER_NUMBER || '254706697688'];
 
 global.ownername = process.env.OWNER_NAME || '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙';
 
